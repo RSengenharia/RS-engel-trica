@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 
-export default function RSEngenharia() {
+export default function App() {
   return (
     <div className="p-6 max-w-5xl mx-auto space-y-8">
       <header className="text-center">
